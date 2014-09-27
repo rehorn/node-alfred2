@@ -1,0 +1,28 @@
+{
+    "name": "node-alfred2",
+    "version": "0.1.0",
+    "description": "alfred2 workflow develop util base on nodejs",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/rehorn/node-alfred2.git"
+    },
+    "keywords": [
+        "alfred2-workflow",
+        "alfred"
+    ],
+    "author": "rehorn@tencent.com",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/rehorn/node-alfred2/issues"
+    },
+    "homepage": "https://github.com/rehorn/node-alfred2",
+    "dependencies": {
+        "jsontoxml": "0.0.11",
+        "plist": "^1.1.0",
+        "rimraf": "^2.2.8"
+    }
+}
