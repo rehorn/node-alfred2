@@ -1,3 +1,4 @@
+// == code from https://github.com/75team/thinkjs
 /**
  * 动态创建一个类
  * 提供了继承、扩展、调用父级别方法等方法
